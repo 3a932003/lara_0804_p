@@ -1,0 +1,12 @@
+{
+    "name": "ncut/auto",
+    "authors": [
+        {
+            "name": "xu qian su",
+            "email": "s3a932003@student.ncut.edu.tw"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.40"
+    }
+}
